@@ -8,7 +8,7 @@ public class Simulation extends MyInfo {
     System.out.println();
     System.out.println("Thank you for playing.  I hope you enjoyed my program.");
     System.out.println();
-    System.out.println("I would really appreciate the opportunity to help Revature achieve their and their customer's goals!");
+    System.out.println("I would really appreciate the opportunity to help your company achieve their, and their customer's goals!");
     System.out.println("Please feel free to contact me at 480.567.4900");
     System.out.println("or email me at matthew.turner.480@gmail.com");
     System.out.println();
